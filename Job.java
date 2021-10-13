@@ -1,6 +1,8 @@
 public class Job implements Runnable {
 	private int jobNumber;
 
+	//I added a comment
+
  	Job (int jobNumber) {
  		this.jobNumber = jobNumber;
  	}
